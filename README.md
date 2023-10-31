@@ -95,9 +95,9 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="./mypic.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>VIGNESH M</h1>
-            <p>Mastertrainer Edunet Foundation</p>
+            <img src="./mypic.jpg" >
+            <h1>pappitha.D</h1>
+            <p>student </p>
         </div>
     </header>
 
@@ -114,14 +114,14 @@
     <section id="about">
         <div class="section-content">
             <h2>About Me</h2>
-            <p>I'm a cyber security expert and technology enthusiast who is passionate about helping organizations protect their data and create secure online environments. I'm driven by the desire to put technology to work for the greater good and empower individuals and businesses to benefit from the digital revolution. With over 7 years of experience in the field, I'm dedicated to staying up to date with the latest trends and innovations in the cyber security landscape. I'm also committed to helping others learn more about the importance of online security and how to stay safe online..</p>
+            <p>I'm pappitha , Iam doing BCA. Iam become a professor.</p>
         </div>
     </section>
 
     <section id="education">
         <div class="section-content">
             <h2>Education</h2>
-            <p>Anna University  - Electrical & Electronics Engineering</p>
+            <p>Bharathidhasan University  -BCA </p>
         </div>
     </section>
 
